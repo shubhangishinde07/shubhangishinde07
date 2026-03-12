@@ -1,6 +1,5 @@
-   ## Hi there 👋
-
-💫 About Me:
+  ## Hi there 👋
+  # 💫 About Me:
 🔭 I’m currently working on: Scaling *CI/CD pipelines* & exploring *Agentic AI for DevOps automation* using AWS, Kubernetes, and Docker.<br>
 👯 I’m looking to collaborate on: *Open-source DevOps and AI + Cloud Infrastructure projects*.<br>
 🤝 I’m looking for help with: *Advanced Kubernetes architecture and Terraform-based IaC workflows*.<br>
